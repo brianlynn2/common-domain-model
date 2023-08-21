@@ -12,6 +12,16 @@ To participate in the standard process and working group meetings, [enroll as a 
 
 For a more detailed overview of the existing Working Group and standard Participants, Editors and Maintainers, please see [Governance.md](https://github.com/finos/standards-project-blueprint/blob/master/governance-documents/5._Governance.md). For more information on discussions and announcements subscribe to our mailing list using the following [link](mailto:cdm+subscribe@lists.finos.org).
 
+## Roadmap overview
+
+Planned functional enhancements for the coming year are described in the [Roadmap](https://github.com/finos/common-domain-model/blob/master/ROADMAP.md).
+
+Other high-level items that are in active discussion and may be added to the roadmap include:
+* Versioning (version identification) and release process
+* Change control guidelines
+* Model serialization, e.g. for persistence and interoperability
+* Static reference data
+
 ## Governance overview
 
 ### Roles
