@@ -22,6 +22,7 @@ Below is the list of [participants](GOVERNANCE.md#1-roles) in CDM, who have comm
 - Daniel Ivanier, Fragmos Chain, Date of enrollment: 9th Mar 2024
 - Jean-Baptiste Ziade, Fragmos Chain, Date of enrollment: 9th Mar 2024
 - Eleonora Acuna, ISDA, Date of enrollment: 11th Mar 2024
+- Brian Lynn, GEM, Date of enrollment: 12th Mar 2024
 
 
 
