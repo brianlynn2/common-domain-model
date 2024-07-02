@@ -4,4 +4,3 @@ The Common Domain Model (CDM) is a standardised, machine-readable and machine-ex
 
 There are no patents involved in the CDM.
 
-test
