@@ -49,17 +49,10 @@ at <cdm@lists.finos.org>.
 ## Design Principles
 
 To support these objectives, the CDM is built according to a set of
-design principles that include the following concepts:
-
--   **Normalisation** through abstraction of common components
--   **Composability** where objects are composed and qualified from the
-    bottom up
--   **Mapping** to existing industry messaging formats
--   **Embedded logic** to represent industry processes
--   **Modularisation** into logical layers
+design principles.
 
 These design principles are further detailed in the
-[design-principles](#design-principles) section of the CDM
+[design-principles](contribution.md#design-principles) section of the CDM
 documentation.
 
 ## Governance
