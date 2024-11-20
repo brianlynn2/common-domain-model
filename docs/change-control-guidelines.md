@@ -11,6 +11,8 @@ This section discusses how changes to the CDM are controlled within and between 
   * How we want to ensure that the rules are evaluated and enforced during development
   * This includes development processes (e.g. review and approval) as well as automated tooling (e.g. regression test cases)
 
+testing 123
+
 ## Change Control Principles
 
 * We are trying to ensure rapid, smooth, and predictable evolution of the model by controlling when and how breaking changes are introduced
